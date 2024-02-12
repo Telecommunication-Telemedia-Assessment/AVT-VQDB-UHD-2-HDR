@@ -10,7 +10,7 @@ If you use any of the data or code please cite the following paper
 ```bibtex
 @inproceedings{keller2024avt,
     author = {Dominik Keller and Thomas Goebel and Valentin Siebenkees  and Julius Prenzel and Alexander Raake},
-    title = {AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset},
+    title = {AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research},
     booktitle="2024 16th International Conference on Quality of Multimedia Experience (QoMEX)",
     year = {2024},
     note = {to appear}
@@ -18,6 +18,8 @@ If you use any of the data or code please cite the following paper
 ```
 ## Download
 Download the sources: [https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr)
+
+Find the objective metric data in this git.
 
 
 ## License
