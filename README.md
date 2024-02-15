@@ -19,7 +19,7 @@ If you use any of the data or code please cite the following paper
 ## Dataset
 
 ![thumbnails](github_images/thumbnails.png)
-*Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes*
+*Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes)*
 
 ## Download
 Download the sources: [https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr)
@@ -37,7 +37,6 @@ Under Windows, where the download speed could be slower, you need to at first op
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\download.bat
 ```
-
 
 
 ## License
