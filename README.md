@@ -32,9 +32,8 @@ Under Linux, `wget` needs to be installed; then you can execute the Shell-script
 ./download.sh
 ```
 
-Under Windows, where the download speed could be slower, you need to at first open a PowerShell, then temporarily bypass the execution policy of your PC for this PowerShell session and then execute the batch script:
+Under Windows, execute the batch script:
 ```bat
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\download.bat
 ```
 
