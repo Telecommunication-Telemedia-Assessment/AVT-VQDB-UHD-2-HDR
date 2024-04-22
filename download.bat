@@ -1,6 +1,33 @@
-@echo off
-setlocal enabledelayedexpansion
+set "baseUrl=https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr"
 
-powershell -File .\download.ps1
-
-endlocal
+curl.exe "%baseUrl%/0_Balance_Forest.mkv" -o "0_Balance_Forest.mkv"
+curl.exe "%baseUrl%/1_Basketball_Afternoon.mkv" -o "1_Basketball_Afternoon.mkv"
+curl.exe "%baseUrl%/2_Basketball_Evening.mkv" -o "2_Basketball_Evening.mkv"
+curl.exe "%baseUrl%/3_Cafe.mkv" -o "3_Cafe.mkv"
+curl.exe "%baseUrl%/4_Campfire.mkv" -o "4_Campfire.mkv"
+curl.exe "%baseUrl%/5_Conversation_Bed.mkv" -o "5_Conversation_Bed.mkv"
+curl.exe "%baseUrl%/6_Conversation_Standing.mkv" -o "6_Conversation_Standing.mkv"
+curl.exe "%baseUrl%/7_Dancing.mkv" -o "7_Dancing.mkv"
+curl.exe "%baseUrl%/8_Drawing.mkv" -o "8_Drawing.mkv"
+curl.exe "%baseUrl%/9_Face_Close.mkv" -o "9_Face_Close.mkv"
+curl.exe "%baseUrl%/10_Fountain.mkv" -o "10_Fountain.mkv"
+curl.exe "%baseUrl%/11_Guitar_Handheld.mkv" -o "11_Guitar_Handheld.mkv"
+curl.exe "%baseUrl%/12_Guitar_Tripod.mkv" -o "12_Guitar_Tripod.mkv"
+curl.exe "%baseUrl%/13_Interview.mkv" -o "13_Interview.mkv"
+curl.exe "%baseUrl%/14_Knitting_Close.mkv" -o "14_Knitting_Close.mkv"
+curl.exe "%baseUrl%/15_Knitting_Total.mkv" -o "15_Knitting_Total.mkv"
+curl.exe "%baseUrl%/16_Night_Biking.mkv" -o "16_Night_Biking.mkv"
+curl.exe "%baseUrl%/17_Onion_1.mkv" -o "17_Onion_1.mkv"
+curl.exe "%baseUrl%/18_Onion_2.mkv" -o "18_Onion_2.mkv"
+curl.exe "%baseUrl%/19_Parcours.mkv" -o "19_Parcours.mkv"
+curl.exe "%baseUrl%/20_Phone_Call.mkv" -o "20_Phone_Call.mkv"
+curl.exe "%baseUrl%/21_Power_Pole_Sky.mkv" -o "21_Power_Pole_Sky.mkv"
+curl.exe "%baseUrl%/22_Programming_Night.mkv" -o "22_Programming_Night.mkv"
+curl.exe "%baseUrl%/23_Reading_Bench.mkv" -o "23_Reading_Bench.mkv"
+curl.exe "%baseUrl%/24_Reading_Stairs.mkv" -o "24_Reading_Stairs.mkv"
+curl.exe "%baseUrl%/25_River.mkv" -o "25_River.mkv"
+curl.exe "%baseUrl%/26_Sitting.mkv" -o "26_Sitting.mkv"
+curl.exe "%baseUrl%/27_Skateboarding.mkv" -o "27_Skateboarding.mkv"
+curl.exe "%baseUrl%/28_Swan.mkv" -o "28_Swan.mkv"
+curl.exe "%baseUrl%/29_Walking_Forest.mkv" -o "29_Walking_Forest.mkv"
+curl.exe "%baseUrl%/30_Yoga.mkv" -o "30_Yoga.mkv" 
