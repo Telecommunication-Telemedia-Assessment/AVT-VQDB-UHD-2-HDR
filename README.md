@@ -27,7 +27,7 @@ Download the sources: [https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr](h
 Find the objective metric data in this git.
 
 Use the provided download tool for your system to get all the sources.
-Under Linux, you need `wget` and `unzip` installed and then execute the Shell-script.
+Under Linux, `wget` needs to be installed; then you can execute the Shell-script.
 ```bash
 ./download.sh
 ```
