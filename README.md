@@ -16,10 +16,27 @@ If you use any of the data or code please cite the following paper
     note = {to appear}
 }
 ```
+## Dataset
+
+![thumbnails](github_images/thumbnails.png)
+*Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes)*
+
 ## Download
 Download the sources: [https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr)
 
 Find the objective metric data in this git.
+
+Use the provided download tool for your system to get all the sources.
+Under Linux, you need `wget` and `unzip` installed and then execute the Shell-script.
+```bash
+./download.sh
+```
+
+Under Windows, where the download speed could be slower, you need to at first open a PowerShell, then temporarily bypass the execution policy of your PC for this PowerShell session and then execute the batch script:
+```bat
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\download.bat
+```
 
 
 ## License
