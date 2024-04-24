@@ -9,7 +9,7 @@ If you use any of the data or code please cite the following paper
 
 ```bibtex
 @inproceedings{keller2024avt,
-    author = {Dominik Keller and Thomas Goebel and Valentin Siebenkees  and Julius Prenzel and Alexander Raake},
+    author = {Dominik Keller and Thomas Goebel and Valentin Siebenkees and Julius Prenzel and Alexander Raake},
     title = {AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research},
     booktitle="2024 16th International Conference on Quality of Multimedia Experience (QoMEX)",
     year = {2024},
