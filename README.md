@@ -36,6 +36,9 @@ Under Windows, execute the batch script:
 ```bat
 .\download.bat
 ```
+## Checksums   
+
+Checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
 
 
 ## License
