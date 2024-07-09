@@ -38,7 +38,8 @@ Under Windows, execute the batch script:
 ```
 ## Checksums   
 
-Checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
+SHA-512 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
+MD5 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.md5).
 
 
 ## License
