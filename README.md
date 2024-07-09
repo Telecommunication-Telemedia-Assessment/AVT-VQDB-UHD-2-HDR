@@ -25,16 +25,6 @@ Download the sources: [https://forms.gle/Ptq9NvZe8tKpnJXx6](https://docs.google.
 
 Find the objective metric data in this git.
 
-Use the provided download tool for your system to get all the sources.
-Under Linux, `wget` needs to be installed; then you can execute the Shell-script.
-```bash
-./download.sh
-```
-
-Under Windows, execute the batch script:
-```bat
-.\download.bat
-```
 ## Checksums   
 
 SHA-512 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
