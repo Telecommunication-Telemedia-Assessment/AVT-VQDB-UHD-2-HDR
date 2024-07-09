@@ -21,7 +21,7 @@ If you use any of the data or code please cite the following paper
 *Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes)*
 
 ## Download
-Download the sources: [https://forms.gle/Ptq9NvZe8tKpnJXx6]([https://forms.gle/Ptq9NvZe8tKpnJXx6](https://docs.google.com/forms/d/e/1FAIpQLSeue0AVOvSTZtFcis-SEqY3O4juzW4iUBJ7hFCO2TlVhrOJxQ/viewform?usp=sf_link))
+Download the sources: [https://forms.gle/Ptq9NvZe8tKpnJXx6](https://docs.google.com/forms/d/e/1FAIpQLSeue0AVOvSTZtFcis-SEqY3O4juzW4iUBJ7hFCO2TlVhrOJxQ/viewform?usp=sf_link)
 
 Find the objective metric data in this git.
 
