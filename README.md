@@ -41,6 +41,7 @@ Under Windows, execute the batch script:
 SHA-512 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
 MD5 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.md5).
 
+![](https://avtshare01.rz.tu-ilmenau.de/asstt/glo.php?key=0ac46938ffb810873bf393adff8b1529&p=uhd2)
 
 ## License
 This database consists of short term videos that are created from scratch by TU Ilmenau. The tools provided in this repository can be used to download the shared videos that are used in the described video quality tests.
