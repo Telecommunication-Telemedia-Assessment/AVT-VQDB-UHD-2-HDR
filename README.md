@@ -12,8 +12,7 @@ If you use any of the data or code please cite the following paper
     author = {Dominik Keller and Thomas Goebel and Valentin Siebenkees and Julius Prenzel and Alexander Raake},
     title = {AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research},
     booktitle="2024 16th International Conference on Quality of Multimedia Experience (QoMEX)",
-    year = {2024},
-    note = {to appear}
+    year = {2024}
 }
 ```
 ## Dataset
@@ -22,24 +21,16 @@ If you use any of the data or code please cite the following paper
 *Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes)*
 
 ## Download
-Download the sources: [https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr)
+Download the sources: [https://forms.gle/Ptq9NvZe8tKpnJXx6](https://docs.google.com/forms/d/e/1FAIpQLSeue0AVOvSTZtFcis-SEqY3O4juzW4iUBJ7hFCO2TlVhrOJxQ/viewform?usp=sf_link)
 
 Find the objective metric data in this git.
 
-Use the provided download tool for your system to get all the sources.
-Under Linux, `wget` needs to be installed; then you can execute the Shell-script.
-```bash
-./download.sh
-```
-
-Under Windows, execute the batch script:
-```bat
-.\download.bat
-```
 ## Checksums   
 
-Checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
+SHA-512 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.sha512).
+MD5 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-2-hdr/checksums.md5).
 
+![](https://avtshare01.rz.tu-ilmenau.de/asstt/glo.php?key=0ac46938ffb810873bf393adff8b1529&p=uhd2)
 
 ## License
 This database consists of short term videos that are created from scratch by TU Ilmenau. The tools provided in this repository can be used to download the shared videos that are used in the described video quality tests.
