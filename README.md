@@ -8,12 +8,16 @@ This work is part of the Interconnected Lab for MEdia Technology Analytics (ILME
 If you use any of the data or code please cite the following paper
 
 ```bibtex
-@inproceedings{keller2024avt,
-    author = {Dominik Keller and Thomas Goebel and Valentin Siebenkees and Julius Prenzel and Alexander Raake},
-    title = {AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research},
-    booktitle="2024 16th International Conference on Quality of Multimedia Experience (QoMEX)",
-    year = {2024}
-}
+@INPROCEEDINGS{Keller20248Kdatabase,
+  author={Keller, Dominik and Goebel, Thomas and Siebenkees, Valentin and Prenzel, Julius and Raake, Alexander},
+  booktitle={2024 16th International Conference on Quality of Multimedia Experience (QoMEX)}, 
+  title={AVT-VQDB-UHD-2-HDR: An open 8K HDR source dataset for video quality research}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={186-192},
+  keywords={Video coding;Video on demand;Estimation;Quality assessment;Planning;High dynamic range;Web sites;UHDTV;8K;UHD-2;Dataset;Video Quality;Subjective Evaluation},
+  doi={10.1109/QoMEX61742.2024.10598268}}
 ```
 ## Dataset
 
