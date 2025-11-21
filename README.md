@@ -15,7 +15,8 @@ If you use any of the data or code please cite the following paper
   year={2024},
   pages={186-192},
   keywords={Video coding;Video on demand;Estimation;Quality assessment;Planning;High dynamic range;Web sites;UHDTV;8K;UHD-2;Dataset;Video Quality;Subjective Evaluation},
-  doi={10.1109/QoMEX61742.2024.10598268}}
+  doi={10.1109/QoMEX61742.2024.10598268}
+}
 ```
 ## Dataset
 
